@@ -1,1 +1,6 @@
-
+Codename: moo
+Version: 1
+Architectures: arm64
+Description: moo repository
+Suite: jetson
+Date: Mon May 22 18:21:08 CEST 2023
